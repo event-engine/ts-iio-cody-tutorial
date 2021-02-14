@@ -7,7 +7,9 @@
     "prettier": "node_modules/.bin/prettier --single-quote --arrow-parens always --print-width 120 --tab-width 4 --write 'src/**/*.{ts,tsx}'",
     "tslint": "node_modules/.bin/tslint -c tslint.json 'src/**/*.{ts,tsx}'",
     "tslint-fix": "node_modules/.bin/tslint -c tslint.json --fix 'src/**/*.{ts,tsx}'",
-    "exercise1": "jest exercise1"
+    "exercise1": "jest exercise1",
+    "exercise2": "jest exercise2",
+    "exercise3": "jest exercise3"
   },
   "dependencies": {
     "async": "^2.6.0",
