@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Exercise Folders
+src/Command/*
+!src/Command/.gitkeep
+src/Aggregate/*
+!src/Aggregate/.gitkeep
+
+
