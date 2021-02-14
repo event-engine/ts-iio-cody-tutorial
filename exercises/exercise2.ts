@@ -10,6 +10,7 @@ test("Add buildingId (string) and name (string) properties to AddBuilding", () =
 export interface AddBuilding {
   buildingId: string;
   name: string;
+
 }
 `);
 })
